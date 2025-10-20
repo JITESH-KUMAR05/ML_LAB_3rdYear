@@ -2,3 +2,9 @@ python-dotenv
 pandas
 numpy 
 scikit-learn
+tensorflow
+matplotlib
+kagglehub
+seaborn
+statsmodels
+yfinance
