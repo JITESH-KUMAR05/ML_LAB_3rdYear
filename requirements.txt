@@ -8,3 +8,7 @@ kagglehub
 seaborn
 statsmodels
 yfinance
+nvidia-cudnn
+tensorflow-gpu
+nvidia-pyindex
+nvidia-cudnn
