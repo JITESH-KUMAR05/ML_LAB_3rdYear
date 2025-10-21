@@ -1,19 +1,23 @@
 [project]
 name = "ml-lab-3rdyear"
 version = "0.1.0"
-description = "Add your description here"
+description = "ML Lab 3rd Year"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "cufflinks>=0.17.3",
     "ipykernel>=6.30.1",
+    "ipython>=9.4.0",
+    "jupyter>=1.1.1",
     "kagglehub>=0.3.13",
     "matplotlib>=3.10.7",
-    "numpy>=2.3.2",
+    "nbformat>=4.2.0",
+    "numpy>=2.0.0",
     "pandas>=2.3.1",
+    "plotly>=5.0.0",
     "python-dotenv>=1.1.1",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.5",
-    "tensorflow>=2.20.0",
     "yfinance>=0.2.66",
 ]
